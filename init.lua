@@ -881,7 +881,7 @@ require('lazy').setup({
 
   {
     -- rose-pine colorscheme
-    'rose-pine/neovim',
+    'nadadur4/rose-pine-nvim',
     name = 'rose-pine',
     config = function()
       vim.cmd 'colorscheme rose-pine'
